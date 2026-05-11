@@ -1,5 +1,4 @@
-![](https://raw.githubusercontent.com/wheat28/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wheat28/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-![](https://raw.githubusercontent.com/wheat28/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/wheat28/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github.com/wheat28/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/wheat28/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/wheat28/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/wheat28/github-stats/blob/generated/languages.svg#gh-light-mode-only)
